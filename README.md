@@ -48,3 +48,11 @@ Let’s Think. Let’s Disrupt. Let’s Thinkrupt.
 🔖 Tags
 #Thinkrupt #DeepTechAI #AIforIndia #OpenSourceAI #LLM #MultilingualAI
 #NLP #IEDC #IndianLanguages #MachineLearning #StudentResearch #ComputerVision #HuggingFace #Innovation #Kasaragod
+
+
+Update: We have moved to Microsoft Azure‼️✅
+
+Thank you to everyone who took the time to explore the project!
+This early version using Gemini API is primarily for outreach and awareness of above initiative 🚀
+Feel free to share your thoghts to support@deeptechlabsindia.in
+https://thinkrupt.in
